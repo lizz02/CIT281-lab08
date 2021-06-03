@@ -1,0 +1,3 @@
+theme: jekyll-theme-midnight
+title: CIT281 Lab 8
+description: Use promises to create a server which fetches song information.
