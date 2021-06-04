@@ -17,7 +17,7 @@
 
 ## Objectives
 
-### Update server code to resond to client requests by fetching information from https://jsonplaceholder.typicode.com/photos/ using promises to ensure execution is comleted in the proper order
+### Update server code to respond to client requests by fetching information from https://jsonplaceholder.typicode.com/photos/ using promises to ensure execution is completed in the proper order
 
 ```
 // #1 TODO: Declare fastify object from fastify, and execute
